@@ -1,3 +1,4 @@
 #!/bin/bash
-feh --bg-scale ~/.config/dwm/image/1.jpg
+feh --bg-scale ~/.config/dwm/image/1.jpg &
 xcompmgr &
+fcitx &
